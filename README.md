@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Arafat
+- 🔭 My name is Arafat
 - 🌱 I’m currently learning Tailwind CSS
 - 👯 I’m looking to collaborate on AI-themed projects!
 - 🤔 I’m looking for help with finding a job...
